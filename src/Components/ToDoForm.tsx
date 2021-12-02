@@ -28,7 +28,7 @@ const Form: React.FC<TodoFromProps> = (props) => {
 		// onChange={changeHendler} 
 		ref={ref}
 		// value={title}
-		 type="text" 
+		type="text" 
 		id="title" 
 		placeholder="Type what to do"
 		/>
